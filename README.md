@@ -1,5 +1,7 @@
 # Python
 Python project and exercise
+
+
 Hey there, aspiring Pythonista! 👋
 
 Welcome to my personal Python playground! This is where I come to experiment, learn, and grow as a Python programmer. And guess what? I'm inviting you along for the ride! 🎉
